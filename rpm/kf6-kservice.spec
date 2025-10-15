@@ -44,7 +44,7 @@ developing applications that use %{name}.
 %install
 %cmake_install
 
-%find_lang_kf6 kservice6 --all-name
+%find_lang kservice6 --all-name
 
 %files -f kservice6.lang
 %license LICENSES/*
