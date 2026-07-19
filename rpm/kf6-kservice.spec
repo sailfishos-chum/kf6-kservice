@@ -1,8 +1,8 @@
-%global  kf_version 6.7.0
+%global kf_version 6.28.0
 
 Name:    kf6-kservice
 Summary: Query information about installed applications
-Version: 6.18.0
+Version: 6.28.0
 Release: 1%{?dist}
 
 License: CC0-1.0 AND GPL-2.0-or-later AND LGPL-2.0-or-later
